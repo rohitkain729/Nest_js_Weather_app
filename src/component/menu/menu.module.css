@@ -1,0 +1,29 @@
+.menu{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    /* margin-right: 10px; */
+    background-color: #ff5f5f;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.menu  span > a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    letter-spacing: 3px;
+    color: white;
+    /* margin-right: 2px; */
+    /* background-color: red; */
+}
+
+.menu  span > a:hover {
+    /* color:; */
+    background-color: rgb(255, 237, 237);
+    color: black;
+    padding: 5px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 20px black;
+    border-radius: 10px;
+}
