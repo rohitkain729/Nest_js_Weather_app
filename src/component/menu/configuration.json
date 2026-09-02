@@ -1,0 +1,21 @@
+[{
+    "item":"Home",
+    "path":"/home",
+    "id":"home"
+},
+{
+    "item":"About",
+    "path":"/about",
+    "id":"about"
+},
+{
+    "item":"Contact",
+    "path":"/contact",
+    "id":"contact"
+},
+{
+    "item":"Logout",
+    "path":"/logout",
+    "id":"logout"
+}
+]
